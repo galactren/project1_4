@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <title>Y Rithya
+    </title>
+    <link rel="stylesheet" href="layout_ver2.css">
+    </head>
+
+<body>
+<nav><ul id="Nav">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="About.html">About Me</a></li>
+    <li><a href="CarBuild.html">Current Car Build</a></li>
+    </ul></nav>
+    
+<h1>Y, Rithya
+    </h1>
+<section>
+<h2>Who is Rithya?</h2>
+<p>Hello, My name is Rithya. Yes, My last name is just the letter Y.
+    I am an adoptee.
+    I am currently a student at Cerritos College pursuing an Associates in Computer Science.
+    I was a medic in the U.S. Army and currently a tow truck driver.
+    My hobbies are computers, cars, motorcycles, and traveling/outdoor adventures.
+    My goals for the future is to learn more about programming and write clean code. The position I want to be in is that of an AWS certified cloud practitioner.
+    </p>
+</section>
+<section>    
+<h2>
+    When I have free time
+    </h2>
+ <ol>
+    <li>Hiking and camping in various campsites and trails
+     </li>
+    <li>Working and modifying my cars and bikes
+     </li>
+    <li>Learning about the environment and the oceans of the world
+     </li>
+    </ol>
+<p>My favorite website to use is <a href="https://www.nps.gov/subjects/oceans/ocean-life.htm">NPS GOV</a>
+because it provides up to date information on new ocean discoveries and the condition of our oceans</p>
+</section>
+<footer>Last Updated:2022/07/08<br>
+<a href="mailto:grudgemarble@gmail.com">Send Emails to Y, Rithya</a>
+</footer>
+
+</body>
+</html>
