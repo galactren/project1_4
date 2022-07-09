@@ -1,0 +1,45 @@
+<!Doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Car Build Sheet</title>
+    <link rel="stylesheet" href="layout_ver2.css">
+    </head>
+<body>
+<header>
+<nav><ul id="Nav">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="About.html">About Me</a></li>
+    <li><a href="CarBuild.html">Current Car Build</a></li>
+    </ul></nav>
+<h1>Current Car Build Sheet</h1>
+</header>
+<section id="leftColumn">
+<h2>Current Parts List</h2>    
+<ul>
+    <li>- Cold Air Intake</li>
+    <li>- Texas Speed Headers</li>
+    <li>- Comp Cams Stage 2 335</li>
+    <li>- Whipple Gen 3 SuperCharge with 10rib and dual Oil Sep</li>
+    <li>- Lund Racing tune</li>
+    <li>- 305/30 Nankang S5R</li>
+    <li>- 19" Gram Lights 57CR</li>
+</ul>
+</section>
+ 
+<section id="rightColumn">
+<h2>Objective of this build</h2>   
+<p>The outcome of this build that I am currently building is to have a fully fuctional yet practical car
+    to race on a track but also to drive daily. This car should fulfill my needs for a car I can drive
+    every day but can also enjoy on the occasioanl track days. The goal of this build is to have  reliable
+    50/50 car with a power of under 800hp and can be somewhat reliable.
+<p><img src="https://www.astonmartinsummit.com/imagetag/677/main/l/Used-2020-Ford-Mustang-GT-1635811917.jpg" alt="Kona Blue Stang" style="float:left;width: 320px; height: 220px;">
+</p>
+</section>
+
+<footer>Last Updated:2022/07/08<br>
+<a href="mailto:grudgemarble@gmail.com">Send Emails to Y, Rithya</a>
+</footer>
+    
+</body>    
+</html>
