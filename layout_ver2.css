@@ -1,0 +1,75 @@
+/*CSS layout VER.2 for CIS162
+Author:Y, Rithya
+Last updated: 2022/07/08
+*/
+
+/*html and body*/
+html{
+background-color:hsl(0, 0%, 100%);
+}
+body{
+display: block;
+color: rgb(0,0,0);
+background-color: #5fa5f7;
+margin-left: auto;
+margin-right: auto;
+width: 95%;
+max-width: 960px;
+max-height: 640px;
+}
+
+/*Headers*/
+h1,h2{
+color:#000000;
+background-color:rgb(54, 116, 255);
+font-family:sans-serif;
+letter-spacing:0.1em;
+}
+
+/* Navigation*/
+nav{
+color:rgb(54, 116, 255);
+background-color:rgb(0,0,0);
+font-family:sans-serif;
+letter-spacing:0.1em;
+font-size:0.8em;
+}
+nav>ul{
+line-height:2em;
+}
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+ul#Nav li{
+display: inline;
+}
+
+/*section*/
+section{
+display: inline-grid;
+background-color: ghostwhite;
+width: 40%;
+font-size:1.0em;
+}
+section#leftComun{
+clear: none;
+float: none;
+width: 20%;
+}
+section#rightColumn{
+clear: right;
+float: none;
+width: 320px;
+}
+
+
+/*footer*/
+body>footer address{
+color:purple;
+background-color:rgb(0,0,0);
+color:rgba(255,255,255,07);
+font:normal small-caps bold 0.8em/2em sans-serif;
+text-align: center;
+}
