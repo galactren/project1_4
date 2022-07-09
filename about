@@ -1,0 +1,38 @@
+<!Doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>About Me</title>
+    <link rel="stylesheet" href="layout_ver2.css">
+    </head>
+<body>
+<nav><ul id="Nav">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="About.html">About Me</a></li>
+    <li><a href="CarBuild.html">Current Car Build</a></li>
+    </ul></nav>
+<h1>Y, Rithya</h1>    
+<section>
+<h2>Educational Goals</h2>
+<ol>
+<li>Further my understanding of programming languages</li>
+<li>Have a better understanding of HTML and CSS</li>
+<li>Apply the skills I have obtained from my classes to become a certified Cloud practitioner</li>
+</ol>
+</section>
+
+<section>
+<h2>Skills</h2>
+<ol>
+<li>I have medical skills obtained through the military as a medic</li>
+<li>I have recovery and towing skills obtained through my current job</li>
+<li>I have mechanical skills obtained through my previous job at Honda</li>
+</ol>
+</section>
+    
+<footer>Last Updated:2022/07/08<br>
+<a href="mailto:grudgemarble@gmail.com">Send Emails to Y, Rithya</a>
+</footer>
+    
+</body>    
+</html>
